@@ -1,6 +1,7 @@
 # ChowDown
 Intuitive food ordering for groups
 
+[GitHub](https://github.com/MrNobody1166/chowdown)
 [Trello](https://trello.com/b/I21DAqqs/chowdown)
 
 ## Possible features
