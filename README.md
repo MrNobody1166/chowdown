@@ -1,6 +1,8 @@
 # ChowDown
 Intuitive food ordering for groups
 
+[Trello](https://trello.com/b/I21DAqqs/chowdown)
+
 ## Possible features
 - User creation
 - Save restaurants and orders to profile
